@@ -13,5 +13,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     String [] playerNames = {"a", "b", "c", "d"};
-    TournamentTree test = new TournamentTree(playerNames);
+    TournamentTree test = new TournamentTree(playerNames); // 주석을 추가했음
 }
